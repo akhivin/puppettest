@@ -1,0 +1,28 @@
+
+  "name": "akhivin-puppettest",
+  "version": "0.0.1",
+  "author": "akhivin",
+  "summary": "Demo module for Murano+Puppet",
+  "license": "Apache-2.0",
+  "source": "https://github.com/akhivin/puppettest",
+  "project_page": "https://github.com/akhivin/puppettest",
+  "issues_url": "https://github.com/akhivin/puppettest/issues",
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 3.7.0 < 5.0.0"
+    }
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "14.04"
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+    }
+  ]
+}
